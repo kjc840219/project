@@ -79,7 +79,7 @@ body{
 .card{
     margin: 70px 0px 80px 0px;
     width: 430px;
-    height: 230px;
+    height: 245px;
     float: right;
     box-shadow: 5px 5px 30px -15px;
     background: beige;
@@ -112,7 +112,7 @@ body{
     padding: 0px 0px 0px 40px;
     color: RoyalBlue;
     font-size: 16px;
-    line-height: 1.2;
+    line-height: 1.4;
 }
 .card .pix{
     float: right;
